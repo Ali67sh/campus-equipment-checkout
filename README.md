@@ -1,5 +1,5 @@
 # campus-equipment-checkout
 
-Tracks laptops, cameras, and lab kits available for student checkout.
+Tracks laptop and cameras.
 
 This is a change in the README.me for part 7
